@@ -1,0 +1,770 @@
+sr,opta,team_name
+sr:competitor:305920,38167,Atlanta United
+sr:competitor:2505,2273,Chicago Fire
+sr:competitor:2510,2278,Colorado Rapids
+sr:competitor:2504,2280,Columbus Crew
+sr:competitor:2502,2277,DC United
+sr:competitor:2512,3841,FC Dallas
+sr:competitor:2508,6422,Houston Dynamo
+sr:competitor:2513,2272,LA Galaxy
+sr:competitor:41618,14860,Minnesota United
+sr:competitor:22006,20933,Montreal Impact
+sr:competitor:2511,2279,New England
+sr:competitor:167510,27696,New York City
+sr:competitor:2506,6571,New York RB
+sr:competitor:52237,13025,Orlando City
+sr:competitor:39833,14575,Philadelphia Union
+sr:competitor:22007,17501,Portland Timbers
+sr:competitor:5133,3843,Real Salt Lake
+sr:competitor:21825,2276,San Jose Earthquakes
+sr:competitor:22009,13024,Seattle Sounders
+sr:competitor:2509,2274,Sporting KC
+sr:competitor:7080,7977,Toronto
+sr:competitor:22010,17500,Vancouver Whitecaps
+sr:competitor:187,761,Accrington Stanley
+sr:competitor:23957,4593,AFC Wimbledon
+sr:competitor:75,756,Aldershot Town
+sr:competitor:42,660,Arsenal
+sr:competitor:40,665,Aston Villa
+sr:competitor:77,755,Barnet
+sr:competitor:23,716,Barnsley
+sr:competitor:97,4743,Barrow
+sr:competitor:9,669,Birmingham City
+sr:competitor:46,672,Blackburn Rovers
+sr:competitor:67,717,Blackpool
+sr:competitor:5,666,Bolton Wanderers
+sr:competitor:36467,4943,Boreham Wood
+sr:competitor:60,711,Bournemouth
+sr:competitor:22,705,Bradford City
+sr:competitor:182,4844,Braintree Town
+sr:competitor:50,722,Brentford
+sr:competitor:30,703,Brighton & Hove Albion
+sr:competitor:58,707,Bristol City
+sr:competitor:76,739,Bristol Rovers
+sr:competitor:180,4845,Bromley
+sr:competitor:6,698,Burnley
+sr:competitor:134,764,Burton Albion
+sr:competitor:52,742,Bury
+sr:competitor:63,743,Cambridge United
+sr:competitor:61,691,Cardiff City
+sr:competitor:78,752,Carlisle United
+sr:competitor:47,668,Charlton Athletic
+sr:competitor:38,661,Chelsea
+sr:competitor:69,740,Cheltenham Town
+sr:competitor:262,16344,Chester City
+sr:competitor:68,723,Chesterfield
+sr:competitor:66,714,Colchester United
+sr:competitor:11,692,Coventry City
+sr:competitor:4875,2860,Crawley Town
+sr:competitor:19,697,Crewe Alexandra
+sr:competitor:7,679,Crystal Palace
+sr:competitor:121,763,Dagenham & Redbridge
+sr:competitor:27,699,Derby County
+sr:competitor:84,724,Doncaster Rovers
+sr:competitor:129,4871,Dover Athletic
+sr:competitor:6191,4766,Eastleigh
+sr:competitor:48,674,Everton
+sr:competitor:86,757,Exeter City
+sr:competitor:23959,4908,Fleetwood Town
+sr:competitor:94,767,Forest Green Rovers
+sr:competitor:43,667,Fulham
+sr:competitor:157,4829,Gateshead
+sr:competitor:20,700,Gillingham
+sr:competitor:18,728,Grimsby Town
+sr:competitor:223,4830,Guiseley
+sr:competitor:101,709,Hartlepool United
+sr:competitor:59,726,Huddersfield Town
+sr:competitor:96,725,Hull City
+sr:competitor:32,685,Ipswich Town
+sr:competitor:34,681,Leeds United
+sr:competitor:31,682,Leicester City
+sr:competitor:83,733,Leyton Orient
+sr:competitor:92,733,Lincoln City
+sr:competitor:44,663,Liverpool
+sr:competitor:72,712,Luton Town
+sr:competitor:93,745,Macclesfield Town
+sr:competitor:26003,6895,Maidstone United
+sr:competitor:17,676,Manchester City
+sr:competitor:35,662,Manchester United
+sr:competitor:70,732,Mansfield Town
+sr:competitor:36,671,Middlesbrough
+sr:competitor:25,689,Millwall
+sr:competitor:4,706,Milton Keynes Dons
+sr:competitor:81,758,Morecambe
+sr:competitor:39,664,Newcastle United
+sr:competitor:79,4762,Newport County
+sr:competitor:170,4836,North Ferriby Utd
+sr:competitor:57,734,Northampton Town
+sr:competitor:263,677,Norwich City
+sr:competitor:14,694,Nottingham Forest
+sr:competitor:56,730,Notts County
+sr:competitor:65,718,Oldham Athletic
+sr:competitor:95,736,Oxford United
+sr:competitor:54,721,Peterborough United
+sr:competitor:71,701,Plymouth Argyle
+sr:competitor:55,710,Port Vale
+sr:competitor:2,673,Portsmouth
+sr:competitor:21,693,Preston North End
+sr:competitor:1,702,Queens Park Rangers
+sr:competitor:28,688,Reading
+sr:competitor:103,747,Rochdale
+sr:competitor:13,695,Rotherham United
+sr:competitor:85,749,Scunthorpe United
+sr:competitor:15,687,Sheffield United
+sr:competitor:12,719,Sheffield Wednesday
+sr:competitor:82,751,Shrewsbury Town
+sr:competitor:7942,8588,Solihull Moors
+sr:competitor:45,670,Southampton
+sr:competitor:99,741,Southend United
+sr:competitor:122,2719,Southport
+sr:competitor:133,759,Stevenage
+sr:competitor:29,690,Stoke City
+sr:competitor:41,683,Sunderland
+sr:competitor:6339,4760,Sutton United
+sr:competitor:74,738,Swansea City
+sr:competitor:53,708,Swindon Town
+sr:competitor:104,727,Torquay United
+sr:competitor:33,675,Tottenham Hotspur
+sr:competitor:51,713,Tranmere Rovers
+sr:competitor:26,704,Walsall
+sr:competitor:24,696,Watford
+sr:competitor:8,678,West Bromwich Albion
+sr:competitor:37,684,West Ham United
+sr:competitor:49,686,Wigan Athletic
+sr:competitor:128,760,Woking
+sr:competitor:3,680,Wolverhampton Wanderers
+sr:competitor:64,715,Wrexham
+sr:competitor:62,731,Wycombe Wanderers
+sr:competitor:131,735,Yeovil Town
+sr:competitor:73,753,York City
+sr:competitor:2540,976,Arminia Bielefeld
+sr:competitor:2600,1000,Augsburg
+sr:competitor:2681,963,Bayer Leverkusen
+sr:competitor:2672,961,Bayern Munich
+sr:competitor:2542,965,Bochum
+sr:competitor:2673,964,Borussia Dortmund
+sr:competitor:2527,971,Borussia M'gladbach
+sr:competitor:2671,980,Cologne
+sr:competitor:2576,2549,Darmstadt 98
+sr:competitor:2595,995,Dynamo Dresden
+sr:competitor:2557,1015,Eintracht Braunschweig
+sr:competitor:2674,979,Eintracht Frankfurt
+sr:competitor:2566,985,Erzgebirge Aue
+sr:competitor:2556,977,Mainz 05
+sr:competitor:2588,1029,Fortuna Dusseldorf
+sr:competitor:2538,970,Freiburg
+sr:competitor:2551,986,Greuther Furth
+sr:competitor:2676,967,Hamburger SV
+sr:competitor:5885,5862,Heidenheim
+sr:competitor:2528,974,Hertha BSC
+sr:competitor:2569,1001,Hoffenheim
+sr:competitor:2573,1019,Holstein Kiel
+sr:competitor:5880,5476,Ingolstadt
+sr:competitor:2675,973,Kaiserslautern
+sr:competitor:2543,984,MDuisburg
+sr:competitor:2523,975,Nuremberg
+sr:competitor:36360,13410,RB Leipzig
+sr:competitor:6157,5898,Sandhausen
+sr:competitor:2530,966,Schalke 04
+sr:competitor:2526,1018,St. Pauli
+sr:competitor:2547,1026,Union Berlin
+sr:competitor:2534,960,Werder Bremen
+sr:competitor:2524,968,Wolfsburg
+sr:competitor:2567,998,Jahn Regensburg
+sr:competitor:2825,2019,Athletic Bilbao
+sr:competitor:2836,2020,Atletico Madrid
+sr:competitor:2885,2037,CD Alaves
+sr:competitor:2845,2053,CD Leganes
+sr:competitor:2821,2033,Celta de Vigo
+sr:competitor:2832,2018,Deportivo La Coruna
+sr:competitor:2814,2032,Espanyol Barcelona
+sr:competitor:2817,2017,FC Barcelona
+sr:competitor:2859,2039,Getafe CF
+sr:competitor:24264,2101,Girona FC
+sr:competitor:6577,2055,Las Palmas UD
+sr:competitor:2849,2036,Levante UD
+sr:competitor:2830,2024,Malaga CF
+sr:competitor:2816,2025,Real Betis Balompie
+sr:competitor:2829,2016,Real Madrid
+sr:competitor:2824,2028,Real Sociedad
+sr:competitor:2839,2042,SD Eibar
+sr:competitor:2833,2021,Sevilla FC
+sr:competitor:2828,2015,Valencia CF
+sr:competitor:2819,2023,Villarreal CF
+sr:competitor:2694,1248,Chievo
+sr:competitor:2692,1240,Milan
+sr:competitor:2693,1259,Fiorentina
+sr:competitor:2702,1241,Roma
+sr:competitor:2686,1255,Atalanta
+sr:competitor:2759,1302,Benevento
+sr:competitor:2685,1249,Bologna
+sr:competitor:2719,1256,Cagliari
+sr:competitor:2718,1280,Crotone
+sr:competitor:2696,1268,Torino
+sr:competitor:2713,1276,Genoa
+sr:competitor:2701,1277,Hellas Verona
+sr:competitor:2697,1244,Internazionale
+sr:competitor:2687,1242,Juventus
+sr:competitor:2699,1245,Lazio
+sr:competitor:113755,1287,SPAL
+sr:competitor:2714,1270,Napoli
+sr:competitor:2711,1247,Sampdoria
+sr:competitor:2695,1246,Udinese
+sr:competitor:2793,5681,Sassuolo
+sr:competitor:1684,918,Angers SCO
+sr:competitor:1653,885,Monaco
+sr:competitor:1678,901,Saint-êtienne
+sr:competitor:1686,923,Dijon
+sr:competitor:1654,904,Guingamp
+sr:competitor:1652,914,Troyes
+sr:competitor:1645,891,Bordeaux
+sr:competitor:1651,896,Metz
+sr:competitor:1647,889,Nantes
+sr:competitor:1658,893,Rennes
+sr:competitor:1681,899,Toulouse
+sr:competitor:1642,906,Montpellier
+sr:competitor:1661,894,Nice
+sr:competitor:1649,884,Olympique Lyonnais
+sr:competitor:1641,890,Olympique Marseille
+sr:competitor:1643,895,Lille
+sr:competitor:1644,886,PSG
+sr:competitor:1659,898,Strasbourg
+sr:competitor:1676,908,Amiens SC
+sr:competitor:1667,902,Caen
+sr:competitor:2046,165,RB Salzburg
+sr:competitor:5962,180,Qarabag FK
+sr:competitor:3350,200,BATE Borisov
+sr:competitor:2900,215,RSC Anderlecht
+sr:competitor:2888,219,Club Brugge
+sr:competitor:2039,480,HNK Rijeka
+sr:competitor:3398,516,Apoel Nicosia FC
+sr:competitor:2216,533,SK Slavia Prague
+sr:competitor:4502,546,Viktoria Plzen
+sr:competitor:5058,826,IFK Mariehamn
+sr:competitor:1661,894,OGC Nice
+sr:competitor:2569,1001,1899 Hoffenheim
+sr:competitor:3245,1040,Olympiacos FC
+sr:competitor:3250,1042,AEK Athens FC
+sr:competitor:1894,1141,FH Hafnarfjordur
+sr:competitor:3179,1196,Dundalk FC
+sr:competitor:5202,1205,Hapoel Beer Sheva
+sr:competitor:5403,1436,Vardar Skopje
+sr:competitor:5331,1447,Hibernians FC
+sr:competitor:5173,1498,Sheriff Tiraspol
+sr:competitor:2953,1515,Ajax Amsterdam
+sr:competitor:2959,1518,Feyenoord Rotterdam
+sr:competitor:5272,1568,Linfield
+sr:competitor:1161,1587,Rosenborg BK
+sr:competitor:3106,1648,Legia Warsaw
+sr:competitor:3002,1678,Porto
+sr:competitor:3006,1679,Benfica Lisbon
+sr:competitor:3001,1680,Sporting CP
+sr:competitor:3301,1776,Fotbal Club FCSB
+sr:competitor:2325,1842,CSKA Moscow
+sr:competitor:2323,1844,Spartak Moscow
+sr:competitor:2352,1898,Celtic FC
+sr:competitor:5152,1943,Partizan Belgrade
+sr:competitor:1916,1953,Budapest Honved FC
+sr:competitor:5143,1953,FK Buducnost
+sr:competitor:2420,2001,NK Maribor
+sr:competitor:1892,2146,Malmo FF
+sr:competitor:2501,2174,Basel
+sr:competitor:2445,2175,Young Boys Bern
+sr:competitor:3050,2214,Besiktas JK
+sr:competitor:3305,2253,Dynamo Kiev
+sr:competitor:3313,2254,Shakhtar Donetsk
+sr:competitor:7711,2705,Santa Coloma
+sr:competitor:5178,2705,Zrinjski Mostar
+sr:competitor:3086,2884,Basaksehir FK
+sr:competitor:4921,6787,The New Saints FC
+sr:competitor:37977,7409,FCI Tallinn
+sr:competitor:36866,7415,Samtredia
+sr:competitor:126298,7919,College Europa FC
+sr:competitor:36085,8509,Spartaks Jurmala
+sr:competitor:43840,12387,Ludogorets Razgrad
+sr:competitor:53064,12573,KS Kukesi
+sr:competitor:36155,13104,Astana
+sr:competitor:36360,13410,RB Leipzig
+sr:competitor:37426,13720,Viitorul Constanta
+sr:competitor:67966,21301,Alashkert
+sr:competitor:277849,24617,Trepca 89
+sr:competitor:1284,600,Copenhagen
+sr:competitor:5207,1413,F91 Dudelange
+sr:competitor:2402,1973,MSK Zilina
+sr:competitor:37860,1885,SP La Fiorita
+sr:competitor:5193,10596,Vikingur Gota
+sr:competitor:5345,1406,VMFD Zalgiris
+sr:competitor:2220,536,Zlin
+sr:competitor:3288,2805,AAstra Giurgiu
+sr:competitor:2355,1908,Aberdeen FC
+sr:competitor:3250,1042,AEK Athens FC
+sr:competitor:3404,524,AEK Larnaca FC
+sr:competitor:3407,519,AEL Limassol FC
+sr:competitor:1764,2153,AIK
+sr:competitor:2953,1515,Ajax Amsterdam
+sr:competitor:3402,518,Apollon Limassol FC
+sr:competitor:5064,1672,Arka Gdynia 1929
+sr:competitor:42,660,Arsenal
+sr:competitor:2398,1976,AS Trencin
+sr:competitor:36155,13104,Astana
+sr:competitor:2686,1255,Atalanta Bergamasca
+sr:competitor:3085,2223,Atiker Konyaspor 1922
+sr:competitor:5337,158,Atlantas Klaipeda
+sr:competitor:2203,158,Austria Vienna
+sr:competitor:36255,3926,Bala Town
+sr:competitor:5269,1573,Ballymena United
+sr:competitor:38304,1452,Balzan Youths
+sr:competitor:4908,2320,Bangor City
+sr:competitor:3350,200,BATE Borisov
+sr:competitor:5204,1210,Beitar Jerusalem
+sr:competitor:5203,1208,Bnei Yehuda Tel Aviv
+sr:competitor:5241,16355,Botev Plovdiv
+sr:competitor:1159,1591,Brann
+sr:competitor:1281,601,Brondby IF
+sr:competitor:37296,6092,Chikhura Sachkhere
+sr:competitor:2888,219,Club Brugge
+sr:competitor:5270,1571,Coleraine FC
+sr:competitor:1284,600,Copenhagen
+sr:competitor:40896,1185,Cork City FC
+sr:competitor:5180,1576,Crusaders Belfast
+sr:competitor:5176,1502,Dacia Chisinau
+sr:competitor:3170,1187,Derry City FC
+sr:competitor:7605,6941,Differdange 03
+sr:competitor:37297,954,Dinamo Batumi
+sr:competitor:3292,1775,Dinamo Bucuresti
+sr:competitor:3361,199,Dinamo Minsk
+sr:competitor:2418,2006,Domzale
+sr:competitor:3286,19828,Dunav Ruse
+sr:competitor:3305,2253,Dynamo Kiev
+sr:competitor:48,674,Everton FC
+sr:competitor:3052,2212,Fenerbahce
+sr:competitor:1925,1101,Ferencvarosi TC
+sr:competitor:3346,777,Flora Tallinn
+sr:competitor:33584,1449,Floriana FC
+sr:competitor:25929,7681,Fola Esch
+sr:competitor:3301,1776,Fotbal Club FCSB
+sr:competitor:2538,970,Freiburg
+sr:competitor:3061,2217,Galatasaray Istanbul
+sr:competitor:36059,6657,Gandzasar Kapan FC
+sr:competitor:4912,2322,Gap Connahs Quay
+sr:competitor:2032,479,GDinamo Zagreb
+sr:competitor:2903,214,Gent
+sr:competitor:1645,891,Girondins Bordeaux
+sr:competitor:2409,1999,Gorica
+sr:competitor:1894,1141,Hafnarfjordur
+sr:competitor:2036,478,Hajduk Split
+sr:competitor:5202,1205,Hapoel Beer Sheva
+sr:competitor:673,1610,HaugesuFK
+sr:competitor:2528,974,Hertha BSC
+sr:competitor:2242,820,HJK Helsinki
+sr:competitor:24036,3070,Inter Baku
+sr:competitor:5365,1350,Irtysh Pavlodar
+sr:competitor:7691,1670,Jagiellonia Bialystok
+sr:competitor:36081,4066,Jelgava
+sr:competitor:5172,1358,Kairat Almaty
+sr:competitor:34425,10610,Krasnodar
+sr:competitor:3121,1653,Lech Poznan
+sr:competitor:3106,1648,Legia Warsaw
+sr:competitor:3273,353,LevsSofia
+sr:competitor:146336,27840,Liepaja
+sr:competitor:126304,7906,Lincoln Red Imps FC
+sr:competitor:2320,1843,Lokomotiv Moscow
+sr:competitor:43840,12387,Ludogorets Razgrad
+sr:competitor:2443,2193,Lugano
+sr:competitor:2453,2951,Luzern
+sr:competitor:1756,635,Lyngby BK
+sr:competitor:5198,1204,Maccabi Tel Aviv
+sr:competitor:3007,1684,Maritimo Madeira
+sr:competitor:1289,603,Midtjylland
+sr:competitor:53475,9133,Milsami
+sr:competitor:2224,548,Mlada Boleslav
+sr:competitor:7771,2843,Mladost Lucani
+sr:competitor:6221,3231,Mladost Podgorica
+sr:competitor:2397,1974,MRuzomberok
+sr:competitor:8091,6551,Nomme Kalju FC
+sr:competitor:5189,800,NSI Runavik
+sr:competitor:659,1586,Odds BK
+sr:competitor:25479,6957,Oleksandria
+sr:competitor:2416,2000,Olimpija Ljubljana
+sr:competitor:43876,7122,Olimpik Donetsk
+sr:competitor:1649,884,Olympique Lyon
+sr:competitor:1641,890,Olympique Marseille
+sr:competitor:4494,4034,Oostende
+sr:competitor:5366,1357,Ordabasy
+sr:competitor:2040,481,Osijek
+sr:competitor:1836,4034,Ostersunds FK
+sr:competitor:3248,1039,Panathinaikos Athens
+sr:competitor:3247,1044,Panionios Athens
+sr:competitor:3251,1041,PAOK FC
+sr:competitor:5152,1943,Partizan Belgrade
+sr:competitor:5222,69,Partizani Tirana
+sr:competitor:2952,1517,PEindhoven
+sr:competitor:6079,2686,Pelister Bitola
+sr:competitor:277829,24616,Prishtina
+sr:competitor:36201,6943,Progres Niedercorn
+sr:competitor:5214,133,Pyunik Yerevan FC
+sr:competitor:5212,1433,RabotnicSkopje
+sr:competitor:2351,1899,Rangers FC
+sr:competitor:2046,165,RB Salzburg
+sr:competitor:2824,2028,Real Sociedad
+sr:competitor:2039,480,Rijeka
+sr:competitor:1161,1587,Rosenborg BK
+sr:competitor:7607,81,Sant Julia
+sr:competitor:5237,2700,Sarajevo
+sr:competitor:3177,1184,Shamrock Rovers FC
+sr:competitor:5173,1498,Sheriff Tiraspol
+sr:competitor:33817,136,Shirak Gyumri FC
+sr:competitor:5413,2693,Shkendija 79 Tetovo
+sr:competitor:2452,2189,Sion
+sr:competitor:5239,2701,SiroBrijeg
+sr:competitor:5224,2518,Skenderbeu Korce
+sr:competitor:2216,533,Slavia Prague
+sr:competitor:2404,1981,Slovan Bratislava
+sr:competitor:2218,532,Sparta Prague
+sr:competitor:2999,1682,Sporting Braga
+sr:competitor:37863,1888,SS Folgore/Falciano
+sr:competitor:2348,1912,St Johnstone
+sr:competitor:126312,7912,St Josephs FC
+sr:competitor:1912,2408,Stjarnan Gardabae
+sr:competitor:2051,164,Sturm Graz
+sr:competitor:5343,1409,Suduva Marijampole
+sr:competitor:6224,1949,Sutjeska Niksic
+sr:competitor:5195,67,Tirana
+sr:competitor:5419,953,Torpedo 2008 Kutaisi
+sr:competitor:50413,17673,Trakai FK
+sr:competitor:37862,1887,Tre Penne
+sr:competitor:37949,9642,UE Santa Coloma
+sr:competitor:2948,1523,Utrecht
+sr:competitor:2463,7903,Vaduz
+sr:competitor:5332,1451,Valletta FC
+sr:competitor:1899,2407,Valur Reykjavik
+sr:competitor:5403,1436,Vardar Skopje
+sr:competitor:1919,1115,Vasas Budapest
+sr:competitor:5354,1389,Ventspils
+sr:competitor:1926,5966,Videoton FC
+sr:competitor:37426,13720,Viitorul Constanta
+sr:competitor:4502,546,Viktoria Plzen
+sr:competitor:2819,2023,Villarreal CF
+sr:competitor:2958,1530,Vitesse Arnhem
+sr:competitor:3009,1689,Vitoria Guimaraes
+sr:competitor:5150,1950,Vojvodina
+sr:competitor:2445,2175,Young Boys Bern
+sr:competitor:36262,2758,Zaria Balti
+sr:competitor:5240,2704,Zeljeznicar
+sr:competitor:2321,1841,Zenit St Petersburg
+sr:competitor:6225,1952,Zeta Golubovci
+sr:competitor:173406,31325,Zira FK
+sr:competitor:5987,3704,Zorya Lugansk
+sr:competitor:2933,236,Zulte Waregem
+sr:competitor:5149,1942,Red Star Belgrade
+sr:competitor:170642,31135,Abano
+sr:competitor:2809,1299,Acireale
+sr:competitor:281285,14123,Adriese
+sr:competitor:223512,34842,Albalonga
+sr:competitor:367992,40200,Albissola
+sr:competitor:368712,40197,Ambrosiana
+sr:competitor:117404,16824,Anzio
+sr:competitor:54691,14135,Aprilia
+sr:competitor:170602,31155,Argentina
+sr:competitor:2707,1271,Ascoli
+sr:competitor:368732,40205,Audace Cerignola
+sr:competitor:2730,1300,Avellino
+sr:competitor:25140,11650,Aversa Normanna
+sr:competitor:221968,34843,Avezzano
+sr:competitor:2712,1301,Bari 1908
+sr:competitor:117282,12125,Belluno
+sr:competitor:367994,40193,Borgaro Nobis
+sr:competitor:117240,14111,Borgosesia
+sr:competitor:111883,22535,Bra
+sr:competitor:2691,1250,Brescia
+sr:competitor:117396,12188,Budoni
+sr:competitor:216842,34844,Bustese Milano City
+sr:competitor:223494,34845,Calvi Noale
+sr:competitor:223496,34866,Campodarsego
+sr:competitor:117276,9391,Caravaggio
+sr:competitor:117234,14113,Caronnese
+sr:competitor:43685,12140,Carpi
+sr:competitor:25144,7208,Cassino
+sr:competitor:170664,31009,Castelfidardo Calcio
+sr:competitor:223338,34846,Castellazzo
+sr:competitor:273707,36999,Castelvetro
+sr:competitor:6361,5167,Cavese
+sr:competitor:2742,1279,Cesena
+sr:competitor:76757,14106,Chieri
+sr:competitor:170666,12236,CittÖ di Campobasso
+sr:competitor:2717,1291,Cittadella
+sr:competitor:369280,40211,Cittanovese
+sr:competitor:345762,40196,Cjarlins Muzane
+sr:competitor:2704,1283,Como
+sr:competitor:117328,25345,Correggese
+sr:competitor:368702,40194,Crema
+sr:competitor:2761,2340,Cremonese
+sr:competitor:117266,12114,Darfo Boario
+sr:competitor:76751,19798,Delta Calcio Rovigo
+sr:competitor:117226,12097,Derthona
+sr:competitor:117286,25319,Dro Calcio
+sr:competitor:54697,16833,Ebolitana
+sr:competitor:2705,1261,Empoli
+sr:competitor:368762,37379,Ercolanese
+sr:competitor:43682,12147,Este
+sr:competitor:368718,40202,Fabriano Cerreto
+sr:competitor:281305,37372,Finale
+sr:competitor:170644,12149,Fiorenzuola
+sr:competitor:2803,1305,Foggia
+sr:competitor:2783,5166,Forlç
+sr:competitor:117422,12206,Francavilla
+sr:competitor:368726,12205,Francavilla Calcio
+sr:competitor:2801,2981,Frosinone
+sr:competitor:2800,5487,Gela
+sr:competitor:117412,12207,Gelbison
+sr:competitor:223506,34867,Ghivizzano Borgo Mozzano
+sr:competitor:117272,19796,Gozzano
+sr:competitor:281379,37381,Gravina
+sr:competitor:223488,34851,Grumellese
+sr:competitor:2807,5662,Igea Virtus
+sr:competitor:117318,25342,Imolese
+sr:competitor:117270,25318,Inveruno
+sr:competitor:368758,40212,Isola Capo Rizzuto
+sr:competitor:117362,16819,Jesina
+sr:competitor:215212,34205,Lanusei
+sr:competitor:44069,5665,Latina
+sr:competitor:117382,25381,Latte Dolce
+sr:competitor:117238,12098,Lavagnese
+sr:competitor:117262,16804,Legnago Salus
+sr:competitor:223500,34852,Lentigione
+sr:competitor:223492,34853,Levico
+sr:competitor:223340,34854,Ligorna
+sr:competitor:223498,34855,Liventina
+sr:competitor:2738,1284,Lumezzane
+sr:competitor:117386,12196,Lupa Roma
+sr:competitor:5325,5173,Manfredonia
+sr:competitor:2770,2983,Mantova
+sr:competitor:5326,5169,Massese
+sr:competitor:117370,25365,Matelica Calcio
+sr:competitor:2720,1257,Messina
+sr:competitor:117306,12150,Mezzolara
+sr:competitor:117294,12233,Montebelluna
+sr:competitor:2780,2541,Montevarchi Calcio
+sr:competitor:223510,34856,Monticelli
+sr:competitor:43846,16830,Nardï
+sr:competitor:170700,31001,Nerostellati Frattese
+sr:competitor:369246,40221,Nerostellati Pratola
+sr:competitor:2767,1293,Novara
+sr:competitor:170690,7198,Nuorese
+sr:competitor:117260,12117,Olginatese
+sr:competitor:117374,12168,Olympia Agnonese
+sr:competitor:117334,22553,Ostia Mare Lidocalcio
+sr:competitor:368760,40213,Paceco
+sr:competitor:117324,12224,Palazzolo
+sr:competitor:2715,1254,Palermo
+sr:competitor:223530,34858,Palmese
+sr:competitor:2690,1243,Parma
+sr:competitor:2766,1316,Pavia
+sr:competitor:113757,5170,Pergolettese
+sr:competitor:2698,1262,Perugia
+sr:competitor:7935,1282,Pescara
+sr:competitor:117356,16816,Pianese
+sr:competitor:223518,34859,Picerno
+sr:competitor:275501,37149,Pineto
+sr:competitor:53849,12212,Pomigliano
+sr:competitor:170652,12176,Ponsacco
+sr:competitor:368764,40210,Portici
+sr:competitor:7936,30653,Potenza Calcio
+sr:competitor:2746,1296,Pro Patria
+sr:competitor:2772,5174,Pro Sesto
+sr:competitor:2769,5675,Pro Vercelli
+sr:competitor:281309,37374,Real Forte Querceta
+sr:competitor:117364,12170,Recanatese
+sr:competitor:368704,40195,Rezzato
+sr:competitor:281307,37371,Rignanese
+sr:competitor:2789,1285,Rimini
+sr:competitor:170698,31003,Roccella
+sr:competitor:117326,25343,Romagna Centro
+sr:competitor:223502,34861,Sammaurese
+sr:competitor:170654,31129,San Donato Tavarnelle
+sr:competitor:2778,5171,San Marino Calcio
+sr:competitor:117424,25388,San Severo
+sr:competitor:281371,37377,San Teodoro
+sr:competitor:281389,37384,Sancataldese
+sr:competitor:170656,2984,Sangiovannese
+sr:competitor:25139,11649,Sangiustese
+sr:competitor:76755,19873,Sarnese
+sr:competitor:368714,40198,Sasso Marconi
+sr:competitor:44066,12105,Savona
+sr:competitor:117352,12183,Scandicci
+sr:competitor:281267,37366,Scanzorosciate
+sr:competitor:357042,40201,Seravezza
+sr:competitor:117274,16682,Seregno
+sr:competitor:117250,12107,Sestri Levante
+sr:competitor:2735,1288,Spezia
+sr:competitor:368730,40206,Sporting Fulgor
+sr:competitor:283185,19806,Sporting Trestina
+sr:competitor:2733,1312,Taranto
+sr:competitor:368724,40207,Team Altamura
+sr:competitor:2708,1265,Ternana
+sr:competitor:368722,40204,Tortolç
+sr:competitor:218154,34509,Trastevere
+sr:competitor:347514,12137,Trento
+sr:competitor:368756,40214,Troina
+sr:competitor:111253,9395,Turris Neapolis
+sr:competitor:113765,16812,Tuttocuoio
+sr:competitor:117298,37434,Union Feltre
+sr:competitor:223508,34863,Valdinievole Montecatini
+sr:competitor:2743,1297,Varese
+sr:competitor:219094,34864,Varesina
+sr:competitor:277859,5674,Vastese
+sr:competitor:2688,1274,Venezia
+sr:competitor:25157,7207,Vibonese
+sr:competitor:368716,40199,Vigor Carpaneto
+sr:competitor:170658,31133,Villabiagio
+sr:competitor:216898,34418,Virtus Bergamo
+sr:competitor:43680,12109,Virtus Entella
+sr:competitor:170660,12139,Virtus Verona
+sr:competitor:2754,1314,Vis Pesaro
+sr:competitor:2523,975,1 FC Nuremberg
+sr:competitor:2524,968,VfL Wolfsburg
+sr:competitor:2526,1018,FC St. Pauli
+sr:competitor:2527,971,Monchengladbach
+sr:competitor:2528,974,Hertha BSC
+sr:competitor:2530,966,FC Schalke 04
+sr:competitor:2532,981,Energie Cottbus
+sr:competitor:2533,969,F.C. Hansa Rostock
+sr:competitor:2534,960,Werder Bremen
+sr:competitor:2536,978,1860 Munich
+sr:competitor:2538,970,SC Freiburg
+sr:competitor:2540,976,Arminia Bielefeld
+sr:competitor:2541,972,Hannover 96
+sr:competitor:2542,965,VfL Bochum
+sr:competitor:2543,984,MSV Duisburg
+sr:competitor:2544,1030,Schweinfurt 05
+sr:competitor:2547,1026,FC Union Berlin
+sr:competitor:2551,986,Greuther Furth
+sr:competitor:2553,989,Karlsruher SC
+sr:competitor:2554,993,1 FC Saarbrucken
+sr:competitor:2555,988,SpVgg Unterhaching
+sr:competitor:2556,977,1 FSV Mainz 05
+sr:competitor:2557,1015,Eintracht Braunschweig
+sr:competitor:2561,1013,SC Paderborn 07
+sr:competitor:2562,994,RW Essen
+sr:competitor:2566,985,Erzgebirge Aue
+sr:competitor:2567,998,SSV Jahn Regensburg
+sr:competitor:2569,1001,1899 Hoffenheim
+sr:competitor:2573,1019,Holstein Kiel
+sr:competitor:2576,2549,SV Darmstadt 98
+sr:competitor:2578,992,FC Rot-WeiÇ_ Erfurt
+sr:competitor:2581,1027,VfL Osnabruck
+sr:competitor:2588,1029,Fortuna Dusseldorf
+sr:competitor:2591,2818,1. FC Magdeburg
+sr:competitor:2592,1016,Chemnitzer FC
+sr:competitor:2595,995,Dynamo Dresden
+sr:competitor:2597,997,SV Wehen Wiesbaden
+sr:competitor:2600,1000,FC Augsburg
+sr:competitor:2671,980,1 FC Cologne
+sr:competitor:2672,961,Bayern Munich
+sr:competitor:2673,964,Borussia Dortmund
+sr:competitor:2674,979,Eintracht Frankfurt
+sr:competitor:2675,973,1 FC Kaiserslautern
+sr:competitor:2676,967,Hamburger SV
+sr:competitor:2677,962,VfB Stuttgart
+sr:competitor:2681,963,Bayer Leverkusen
+sr:competitor:4898,2923,FC Nottingen
+sr:competitor:4899,2924,TuS Koblenz
+sr:competitor:5564,5856,Germania Halberstadt
+sr:competitor:5861,5817,BFC Dynamo
+sr:competitor:5880,5476,FC Ingolstadt
+sr:competitor:5885,5862,1 FC Heidenheim
+sr:competitor:6157,5898,SV Sandhausen
+sr:competitor:6188,5820,Bonner SC
+sr:competitor:23947,110606,FC Wurzburger Kickers
+sr:competitor:24072,110207,Eintracht Norderstedt
+sr:competitor:24084,11234,Luneburger SK Hansa
+sr:competitor:36360,13410,RB Leipzig
+sr:competitor:36574,13423,SV Eichede
+sr:competitor:53369,19267,TuS Erndtebruck
+sr:competitor:166158,29737,Leher TS
+sr:competitor:274075,37028,SV Morlautern
+sr:competitor:343352,34719,1. FC Rielasingen-Arlen
+sr:competitor:343354,31021,SF Dorfmerkingen
+sr:competitor:2814,2032,Espanyol Barcelona
+sr:competitor:2815,2030,Real Zaragoza
+sr:competitor:2816,2025,Real Betis Balompie
+sr:competitor:2817,2017,FC Barcelona
+sr:competitor:2818,2024,Rayo Vallecano
+sr:competitor:2819,2023,Villarreal CF
+sr:competitor:2820,2022,CA Osasuna
+sr:competitor:2821,2033,Celta de Vigo
+sr:competitor:2822,2048,Tenerife CD
+sr:competitor:2824,2028,Real Sociedad
+sr:competitor:2825,2019,Athletic Bilbao
+sr:competitor:2826,2027,RCD Mallorca
+sr:competitor:2828,2015,Valencia CF
+sr:competitor:2829,2016,Real Madrid
+sr:competitor:2830,2024,Malaga CF
+sr:competitor:2831,2031,Real Valladolid
+sr:competitor:2832,2018,Deportivo La Coruna
+sr:competitor:2833,2021,Sevilla FC
+sr:competitor:2835,2029,Racing Santander
+sr:competitor:2836,2020,Atletico Madrid
+sr:competitor:2839,2042,SD Eibar
+sr:competitor:2840,2099,Gimnastic de Tarragona
+sr:competitor:2843,2057,Racing de Ferrol
+sr:competitor:2845,2053,CD Leganes
+sr:competitor:2846,2043,Elche CF
+sr:competitor:2848,2026,Albacete Balompie
+sr:competitor:2849,2036,UD Levante
+sr:competitor:2850,2050,Cordoba CF
+sr:competitor:2851,2336,Real Oviedo
+sr:competitor:2852,2038,Sporting Gijon
+sr:competitor:2855,2035,Numancia CD
+sr:competitor:2858,2049,UD Almeria
+sr:competitor:2859,2039,Getafe CF
+sr:competitor:2868,2078,Cultural Leonesa
+sr:competitor:2877,2106,Hercules CF
+sr:competitor:2878,9797,CP Cacereno
+sr:competitor:2881,2068,Real Union de Irun
+sr:competitor:2885,2037,CD Alaves
+sr:competitor:4487,2034,Real Murcia CF
+sr:competitor:4488,2041,Cadiz CF
+sr:competitor:4941,2058,Pontevedra CF
+sr:competitor:4942,19313,Lleida Esportiu
+sr:competitor:5068,37767,Lorca Deportiva CF
+sr:competitor:6195,2084,SD Ponferradina
+sr:competitor:6577,2055,Las Palmas UD
+sr:competitor:6578,9664,Gimnastica Segoviana
+sr:competitor:6585,3000,CD Alcoyano
+sr:competitor:6586,3001,CF Badalona
+sr:competitor:6588,2070,Pena Sport FC
+sr:competitor:24264,2101,Girona FC
+sr:competitor:24265,3003,SD Huesca
+sr:competitor:24322,2085,Alcorcon AD
+sr:competitor:24323,9676,Antequera CF
+sr:competitor:24325,9725,CD Atletico Baleares
+sr:competitor:24329,3008,FC Cartagena
+sr:competitor:24332,7073,CD Lugo
+sr:competitor:24348,2130,Marbella FC
+sr:competitor:24350,2125,Melilla UD
+sr:competitor:24351,30539,Merida UD
+sr:competitor:25401,2093,CD Toledo Sad
+sr:competitor:33779,7072,Granada CF
+sr:competitor:35092,9670,CD Mirandes
+sr:competitor:35097,7104,Fuenlabrada
+sr:competitor:37051,2135,CF Villanovense
+sr:competitor:37052,2066,RS Gimnastica de Torrelavega
+sr:competitor:37057,9852,UD Logrones
+sr:competitor:37589,4799,CF Reus Deportiu
+sr:competitor:47567,2086,CF Talavera de La Reina
+sr:competitor:54121,9503,CD Olimpic de Xativa
+sr:competitor:55785,13920,UCAM Murcia
+sr:competitor:77397,2076,Real Aviles
+sr:competitor:115059,19679,Olot
+sr:competitor:115067,9000,Lorca CF
+sr:competitor:166958,9410,Rapido d. Bouzas
+sr:competitor:167160,11765,SD Leioa
+sr:competitor:167754,9692,Arcos
+sr:competitor:216190,2096,CF Rayo Majadahonda
+sr:competitor:216774,22437,SD Formentera
+sr:competitor:273935,9840,CD Calahorra
+sr:competitor:336767,9894,AD Union Adarve
+sr:competitor:336769,34373,UD San Fernando
+sr:competitor:336771,16798,Sociedad Deportivo Tarazona
+sr:competitor:336775,4793,Scd Durango
